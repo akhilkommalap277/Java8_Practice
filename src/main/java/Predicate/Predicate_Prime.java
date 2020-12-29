@@ -1,4 +1,4 @@
-
+package Predicate;
 
 /* Predicate - Functional Interface
 
